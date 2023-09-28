@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently researching scalable and cost-effective pre-training algorithms for large-scale model development.
 - ⚡ Here are some selected repositories from my research projects as well as open-source repositories I have contributed to:
-
