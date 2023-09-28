@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on robust models and interpretable deep learning.
-- 📫 How to reach me: btherien at uwaterloo dot ca
+- 🔭 I’m currently researching scalable and cost-effective pre-training algorithms for large-scale model development.
+- 📫 How to reach me: benjamin.therien at umontreal dot ca
